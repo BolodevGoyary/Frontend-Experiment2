@@ -1,6 +1,5 @@
 # Frontend-Experiment2: Styled Blog Post (CSS Styling)
 
-
 ## Objective
 To learn how to apply CSS styling to an HTML document and improve webpage presentation by using selectors, typography, spacing, and colors.
 
@@ -24,10 +23,6 @@ This experiment demonstrates the following:
 - Open the project folder in any code editor (VS Code recommended).
 - Open index.html in any web browser (Chrome, Firefox, Edge, etc.).
 - The styled blog post will appear with fonts, colors, spacing, and layout applied.
-
-## Screenshot (Optional)
-(You may add a screenshot of your blog page here)
-![Blog Screenshot](screenshot.png)
 
 ## Submission
 This repository is submitted for Frontend Development Experiment 2 as part of the course requirements.
